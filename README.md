@@ -41,7 +41,7 @@ Coursework: statistical analysis (ANOVA, regression), algorithms and data struct
 
 ## 📫 Contacts
 
-- 📧 Email:avatovmoon@gmail.com
+- 📧 Email: avatovmoon@gmail.com
 - 💬 Telegram: [@silence_is_my_SV](https://t.me/silence_is_my_SV)
    
 ---
