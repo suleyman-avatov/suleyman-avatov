@@ -1,4 +1,4 @@
-## Hi, I'm Suleiman Avatov 👋
+## Hi, I'm Suleyman Avatov 👋
 
 **Junior Data Analyst** | Python • SQL • Statistics • A/B Testing
 
