@@ -33,7 +33,7 @@ End-to-end product experiment: from hypothesis and experiment design to business
 
 ## 🎓 Education
 
-2nd-year student, **Applied Mathematics and Informatics**  
+3nd-year student, **Applied Mathematics and Informatics**  
 Specialization: Mathematical and Software Support of AI Systems  
 Coursework: statistical analysis (ANOVA, regression), algorithms and data structures
 
